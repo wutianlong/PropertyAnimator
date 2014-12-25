@@ -1,0 +1,4 @@
+#忽略bin,gen目录
+/bin
+/gen
+*.class
